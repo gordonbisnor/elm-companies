@@ -48,6 +48,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [Gizra](http://www.gizra.com/)
   ([GitHub](https://github.com/Gizra)) -
   Gizra build websites.
+* [Isnor Creative](https://www.isnorcreative.com/) - Web development agency 
+   based in Halifax, Nova Scotia with a focus on Rails, Ember, Elixir, React and Elm
 * [Test Double](http://testdouble.com)
   ([GitHub](https://github.com/testdouble)) - Test Double is an agency
   of highly-skilled developers on a mission to improve how the world
@@ -75,7 +77,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Roompact is a Chicago-based company that makes a residential education,
   learning, and engagement platform used by university residence life
   departments.
-
+* [Scholars OneClick](https://appfinder.brightspace.com/app-details/?appId=5ad0c6636c30365140791e8e)
+  Scholars OneClick is an LMS application from Canadian Scholars.
+  Easy insertion of coursepacks, books and quizzes directly into a course.
 
 #### Electronics
 
